@@ -4,6 +4,8 @@ A lightweight IPTV player built with Python.
 Play IPTV streams from a URL or M3U file — **no VLC required**.  
 Everything works in a single window with built-in video and audio.
 
+![MikroIptv](screenshot.png)
+
 ---
 
 ## ✨ Features
@@ -86,7 +88,9 @@ python mikroiptv.py
 
 ## 📷 Screenshots
 
-*(Coming soon)*
+![MikroIptv Main](screenshot.png)
+
+*(Add more screenshots here)*
 
 ---
 
